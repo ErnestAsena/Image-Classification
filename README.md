@@ -1,5 +1,6 @@
 # Image-Classification
-Modelling the MNIST Dataset to Classify Hand-written digits
+In this notebook, I will be Modelling the famous MNIST Dataset to Classify Hand-written digits.
+For this project, I will use Tensorflow to create a  Convolutional Neural Network.
 
 
 <img src='https://github.com/ErnestAsena/Image-Classification/blob/main/Images/classifi1.png'>
